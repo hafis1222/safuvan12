@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/safuvan__m" target="blank"><img src="https://img.shields.io/twitter/follow/safuvan__m?logo=twitter&style=for-the-badge" alt="safuvan__m" /></a> </p>
 
-- 🔭 I’m currently working on [Twitter-clone](https://github.com/safuvan12/flutter_twitter-clone.git)
+- 🔭 I’m currently working on Weather app 
 
-- 🌱 I’m currently learning **Flutter,Dart,Firebase,riverpod**
+- 🌱 I’m currently learning **Flutter,Dart,Firebase,provider**
 
 - 💬 Ask me about **Android , Ios, Web**
 
